@@ -1,1 +1,2 @@
 # Power_BI-Projects
+This is a survey that was conducted with people from different backgrounds in respect to career but mostly within tech like data scientists, data analysts, data engineers and so on. with this survey, I conducted analysis and pull some insights from it like the highest paying job and narrowing it down to gender, location how happy people were with their jobs in terms of work life balance, salary etc. 
